@@ -7,3 +7,5 @@ Flexbox and the Box-model will be used to position the items on the webpage.
 
 Flexbox, padding, and margin were added to the CSS to properly position the navbar.
 Margin and padding were then added to the rest of the content in the body element.
+
+The website is still not finished as I have only started implementing the things I've learned.
